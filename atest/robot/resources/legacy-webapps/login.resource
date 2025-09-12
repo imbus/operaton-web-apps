@@ -5,7 +5,7 @@ Keyword Tags    interface    legacy-webapps
 
 
 *** Keywords ***
-Open Browser and Login
+Open Browser And Login
     Open Login Page
     Login
     Validate Welcome Page Is Shown

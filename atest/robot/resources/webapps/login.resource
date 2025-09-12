@@ -5,7 +5,7 @@ Keyword Tags    interface    webapps
 
 
 *** Keywords ***
-Open Browser and Login
+Open Browser And Login
     Open Login Page
     Validate Welcome Page Is Shown
 
