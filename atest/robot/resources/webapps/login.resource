@@ -6,7 +6,10 @@ Keyword Tags    interface    webapps
 
 *** Keywords ***
 Open Browser And Login
+    [Tags]    feature_missing
     Open Login Page
+    # missing login
+    Log    Login is still missing
     Validate Welcome Page Is Shown
 
 Validate Welcome Page Is Shown
