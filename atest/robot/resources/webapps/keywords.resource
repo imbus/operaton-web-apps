@@ -1,4 +1,4 @@
 *** Settings ***
-Resource        login.resource
-
-Keyword Tags    interface    webapps
+Library     Browser
+Resource    login.resource
+Resource    tasklist.resource
