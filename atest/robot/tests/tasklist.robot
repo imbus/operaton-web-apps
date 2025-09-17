@@ -17,3 +17,20 @@ Sort And Filter Pending Tasks On Tasklist
     Navigate To Tasklist
     Select A Filter And Count Tasks
     Select A Sorting Element And Order
+
+
+*** Keywords ***
+Count Tasks In Tasklist
+    [Documentation]    # TODO: implement keyword "Select A Filter And Count Tasks".
+    [Tags]    feature_missing
+    Fail    is it possible to create tasks?
+
+Select A Filter And Count Tasks
+    [Documentation]    # TODO: implement keyword "Select A Filter And Count Tasks".
+    [Tags]    feature_missing
+    Fail    filter option is not implemented!
+
+Select A Sorting Element And Order
+    [Documentation]    # TODO: implement keyword "Select A Filter And Count Tasks".  
+    [Tags]    feature_missing  
+    Fail    sorting option is not implemented!
